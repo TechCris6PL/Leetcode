@@ -1,0 +1,4 @@
+git add .
+git commit -m 'text'
+git remote add (name of remote repo, usually origin) url
+git push -u remote_repo local_repo(main,master)
